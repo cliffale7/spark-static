@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cliff.sparkcamp",
+      "sha256_cert_fingerprints": [
+        "CB:84:7D:FE:19:36:A9:A4:C1:74:D6:34:9F:62:02:52:E8:B1:57:0F:99:2C:91:FD:19:62:75:E2:42:18:1B:7C"
+      ]
+    }
+  }
+]
